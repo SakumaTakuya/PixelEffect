@@ -1,1 +1,1 @@
-# PixelEffect
+© Unity Technologies Japan/UCL
